@@ -1,0 +1,9 @@
+table,
+tr,
+td {
+  border: 1px solid black;
+  /* border-spacing: 10px; */
+  width: 300px;
+  height: 100px;
+  text-align: center;
+}
